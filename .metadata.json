@@ -1,0 +1,10 @@
+[
+  {
+    "package": "shinyLP",
+    "oncran": true
+  },
+  {
+    "package": "ttbbeer",
+    "oncran": true
+  }
+]
